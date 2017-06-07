@@ -45,7 +45,7 @@ body {
     background: -webkit-linear-gradient(left top,rgb(8, 0, 102), rgb(2, 124, 142)); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right,rgb(8, 0, 102), rgb(2, 124, 142)); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(bottom right,rgb(8, 0, 102), rgb(2, 124, 142)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, rgb(8, 0, 102), rgb(2, 124, 142)); /* Standard syntax */ 
+    background: linear-gradient(to bottom left, rgb(8, 0, 102), rgb(2, 124, 142)); /* Standard syntax */ 
 	background-size: cover;
 	color: white;
 	text-align: center;
@@ -77,7 +77,7 @@ body {
     background: -webkit-linear-gradient(left top,  rgb(1, 142, 25),rgb(165, 168, 1)); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right,  rgb(1, 142, 25),rgb(165, 168, 1)); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(bottom right,  rgb(1, 142, 25),rgb(165, 168, 1)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, rgb(1, 142, 25),rgb(165, 168, 1)); /* Standard syntax */ 
+    background: linear-gradient(to bottom left, rgb(1, 142, 25),rgb(165, 168, 1)); /* Standard syntax */ 
 	background-size: cover;
 	color: white;
 	text-align: center;
